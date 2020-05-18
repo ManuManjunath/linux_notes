@@ -1,1 +1,1 @@
-# shell_notes
+# linux_notes
